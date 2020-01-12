@@ -4,6 +4,9 @@ This is the [Laravel](https://laravel.com) adaptation of [Colorlib](https://colo
 
 The objective of this project is to facilitate this template to Laravel developers, since the implementation of the official project to a blade template is not trivial
 
+## Prerequisites
+You just need to clone the repository and meet the [Laravel 6.x requirements](https://laravel.com/docs/6.x#server-requirements).
+
 ## More about Adminator Admin Dashboard Template
 
 * You can see the repository [here](https://github.com/puikinsh/Adminator-admin-dashboard)
